@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import matplotlib.pyplot as plt
+
 
 # ---------------- LOAD FILES ---------------- #
 
